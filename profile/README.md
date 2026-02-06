@@ -73,14 +73,13 @@ If you can’t connect via MCP from your current environment, use the docs as fa
 
 ---
 
-## Repos in this org (typical)
+## Repos
 
-This GitHub org may contain (names can vary):
+Public (for now):
 
-- `okham.org` — website + docs distribution
 - `okham-specs` — contract source documents (OCD) and schemas
-- `okham-mcp` — public MCP endpoint for OKHAM standards
-- `okham-io-mcp` — authenticated MCP for paid/subscription product artifacts (okham.io)
+
+Other repos exist but may be private while we iterate.
 
 ---
 
