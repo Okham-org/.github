@@ -81,6 +81,8 @@ Public (for now):
 
 Other repos exist but may be private while we iterate.
 
+Product org (commercial / runtimes / components): https://github.com/Okham-io
+
 ---
 
 ## Contributing
